@@ -1,2 +1,2 @@
 # PresentationShare
-public presentations and infographics in the Jina community.
+Public presentations and infographics in the Jina community.
