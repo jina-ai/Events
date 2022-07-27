@@ -1,0 +1,14 @@
+# Initially taken from Github's Python gitignore file
+
+# Pyre type checker
+.pyre/
+.idea/
+toy*.py
+.DS_Store
+post/
+toy*.ipynb
+data/
+*.c
+.nes_cache
+toy*.yml
+*.tmp
